@@ -1,0 +1,9 @@
+fires once, only primary has torpedoes
+
+fires all, while both stores have torpedoes
+
+fires once, only secondary has a torpedo
+
+fires thrice, 1 in primary 2 in secondary
+
+fires once, both empty
